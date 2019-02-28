@@ -1,0 +1,7 @@
+<RCC>
+
+     <qresource>
+         <file>searching.png</file>
+	 <file>search.png</file>
+     </qresource>
+</RCC>
